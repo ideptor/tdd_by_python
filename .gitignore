@@ -87,3 +87,10 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# django
+db.sqlite3
+
+#pycharm
+.idea/
+
