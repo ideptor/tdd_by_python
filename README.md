@@ -2,7 +2,9 @@
 TDD by python
 
 # preparing
-download `geckodriver` : https://github.com/mozilla/geckodriver/releases
+1. download `geckodriver` : https://github.com/mozilla/geckodriver/releases
+
+1. install required packages:
 ```bash
 $ python -m pip install --upgrade pip
 $ pip3 install django==1.7
